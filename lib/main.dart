@@ -65,7 +65,7 @@ class SplashScreenState extends State<MyHomePage> {
                     ),
                     const Center(
                         child: Text(
-                      'ABY ',
+                      'ABYs',
                       style: TextStyle(
                           letterSpacing: 5,
                           color: Colors.white,
